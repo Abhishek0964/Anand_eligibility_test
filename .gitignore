@@ -1,0 +1,9 @@
+# Build binaries
+first_problem
+second_problem
+Problem_first
+this/first_problem
+this/second_problem
+
+# IDE settings
+.vscode/
