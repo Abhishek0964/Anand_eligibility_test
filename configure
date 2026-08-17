@@ -1,0 +1,4 @@
+#!/bin/bash
+# Simple configure script
+echo "Configuring project..."
+exit 0
